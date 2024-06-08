@@ -1,0 +1,9 @@
+.navName {
+    margin: 10px 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+Link span {
+    font-weight: bold;
+}
